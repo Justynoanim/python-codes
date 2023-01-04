@@ -1,0 +1,49 @@
+# print("hello world!")
+# a = 5/2
+# print(a)
+# print(a)
+x=5
+y=2
+z=x+y
+# for i in range(0,x+1):
+#     print(i)
+# print(z)
+# for y in range(1,3):
+#     print(y)
+if x>3:
+   print("x is greater than")
+   print("x is 5")
+x='justice'
+y=2
+z=3.10
+print(x)
+print(type(x))
+print(type(y))
+print(type(z))
+# a=str(y)
+# b=int(z)
+ c=float(y)
+print(a)
+ print(b)
+ print(c)
+print(type(a))
+print("hello world")
+print(z)
+
+
+a="the pharmacist in mujida pharmacy is mr Justice"
+    print((ln))
+
+#Casefold
+a="PYTHON IS BEAUTIFUL"
+print(a.c
+
+
+
+a=[1,2,3,4,5]
+x=["Loveth", "Nike", "Tolu", "Blessing", "Faith", "Naomo", "Seun"]
+c=a+x
+print(c)
+
+
+
